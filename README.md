@@ -1,6 +1,5 @@
-# Hi, I'm <Omanshi>! 👋
+# Hi, I'm Omanshi! 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omanshi19&theme=vue-dark&show_icons=true)
 
 ## 🚀 About Me
 - 💻 Full-stack developer specializing in the MERN stack  
