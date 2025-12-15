@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-- 💻 Full-stack developer specializing in the MERN stack  
+- 💻 Full-stack Blockchain developer specializing in the MERN stack  
 - 🤖 Passionate about crafting cutting-edge solutions with Machine Learning & Deep Learning  
 - 🌐 Blockchain enthusiast with hands-on experience in smart contracts and decentralized tech  
 - 🧠 Forever curious—currently geeking out on Prompt Engineering and Next-Gen AI  
