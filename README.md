@@ -34,7 +34,9 @@
 ## 📊 Languages I Work With
 
 <p align="center">
+  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omanshi19&layout=compact&theme=tokyonight)
+  
 </p>
 
 ---
