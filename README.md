@@ -31,6 +31,14 @@
 
 ---
 
+## 📊 Languages I Work With
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omanshi19&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ## 🧠 Currently Focused On
 
 <p align="center">
@@ -40,14 +48,6 @@
 ⚙️ **Designing scalable full-stack architectures**  
 🧪 **Experimenting with emerging Web3 tools**
 
-</p>
-
----
-
-## 📊 Languages I Work With
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omanshi19&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
