@@ -12,8 +12,21 @@
 - 💻 Full-stack Blockchain developer specializing in the **MERN stack**
 - 🤖 Passionate about building solutions using **Machine Learning & Deep Learning**
 - 🌐 Hands-on experience with **smart contracts & decentralized applications**
-- 🧠 Currently exploring **Blockchain Technology & Gen AI**
+- 🧠 Currently exploring **Prompt Engineering & Next-Gen AI**
 - 💬 Always happy to talk about **Python, AI, MERN, Web3 & tech in general**
+
+---
+
+## 🧠 Currently Focused On
+
+<p align="center">
+
+🔗 **Building real-world blockchain applications**  
+🤖 **Integrating AI/ML into practical systems**  
+⚙️ **Designing scalable full-stack architectures**  
+🧪 **Experimenting with emerging Web3 tools**
+
+</p>
 
 ---
 
@@ -33,18 +46,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Languages I Work With
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omanshi19&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omanshi19&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omanshi19&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omanshi19&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
 
----
 
 ## 📬 Let’s Connect
 
