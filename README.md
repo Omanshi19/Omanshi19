@@ -34,7 +34,7 @@
 ## 📊 Languages I Work With
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omanshi19&layout=compact&theme=tokyonight&hide_border=true"/>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omanshi19&layout=compact&theme=tokyonight)
 </p>
 
 ---
@@ -49,10 +49,6 @@
 🧪 **Experimenting with emerging Web3 tools**
 
 </p>
-
----
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omanshi19&layout=compact&theme=tokyonight)
 
 ---
 
