@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
 </p>
 
---- 
+---  
 
 <h1 align="center">Hey, I'm Omanshi! 👋</h1>
 <h3 align="center">Full-Stack Blockchain Developer | AI & ML Enthusiast</h3>
