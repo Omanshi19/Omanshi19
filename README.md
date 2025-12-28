@@ -14,7 +14,7 @@
  
 <h1 align="center">Hey, I'm Omanshi! 👋</h1> 
 <h3 align="center">Full-Stack Blockchain Developer | AI & ML Enthusiast</h3>  
- 
+  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Omanshi19&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
