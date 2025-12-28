@@ -35,8 +35,8 @@
 
 <p align="center">
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omanshi19&layout=compact&theme=tokyonight&hide_border=true)
-  
+   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Omanshi19&layout=compact&langs_count=6&theme=tokyonight)
+     
 </p>
 
 ---
