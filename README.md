@@ -13,7 +13,7 @@
 ---          
   
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=500&lines=Hey,+I'm+Omanshi+👋" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=420&lines=Hey,+I'm+Omanshi" />
 </h1>
 
 ---
