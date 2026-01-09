@@ -17,18 +17,16 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=17&pause=2200&color=edcb63&center=true&vCenter=true&width=650&cursor=false&duration=1&lines=Blockchain+by+choice,+not+by+chance!;Full-stack+by+skill,+curiosity+by+habit!;Building+quietly,+shipping+confidently!!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=17&pause=2200&color=edcb63&center=true&vCenter=true&width=650&cursor=false&duration=1&lines=Blockchain+by+choice,+not+by+chance!;Full-stack+by+skill,+curiosity+by+habit!;Building+quietly,+shipping+confidently!!" /> 
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full-stack Blockchain developer specializing in the **MERN stack**
+- 💻 Full-stack **Blockchain developer** specializing in the **MERN stack**
 - 🤖 Passionate about building solutions using **Machine Learning & Deep Learning**
-- 🌐 Hands-on experience with **smart contracts & decentralized applications**
-- 🧠 Currently exploring **Prompt Engineering & Next-Gen AI**
-- 💬 Always happy to talk about **Python, AI, MERN, Web3 & tech in general**
+- 💬 Always happy to talk about **Web3 & tech in general**
 
 ---
 
