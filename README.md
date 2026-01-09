@@ -13,11 +13,11 @@
 ---          
   
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=6A5ACD&center=true&vCenter=true&width=420&lines=Hey,+I'm+Omanshi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=ed58e0&center=true&vCenter=true&width=420&lines=Hey,+I'm+Omanshi" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=17&pause=2200&color=6A5ACD&center=true&vCenter=true&width=650&cursor=false&duration=1&lines=Blockchain+by+choice,+not+by+chance;Full-stack+by+skill,+curiosity+by+habit;Building+quietly,+shipping+confidently" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=17&pause=2200&color=6A5ACD&center=true&vCenter=true&width=650&cursor=false&duration=1&lines=Blockchain+by+choice,+not+by+chance!;Full-stack+by+skill,+curiosity+by+habit!;Building+quietly,+shipping+confidently!!" />
 </p>
 
 ---
