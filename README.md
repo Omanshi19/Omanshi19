@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"/>  
 </p>         
                     
----           
+---            
   
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=ed58e0&center=true&vCenter=true&width=420&lines=Hey,+I'm+Omanshi" />
