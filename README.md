@@ -9,8 +9,6 @@ i love code &nbsp;&nbsp;
 &nbsp;&nbsp; and chaos &nbsp;&nbsp;
 <img src="https://media.giphy.com/media/3oEjHGr1Fhz0kyv8Ig/giphy.gif" width="80"/>
 
-![under construction](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
-
 
 
 <div align="center">
