@@ -80,8 +80,6 @@ i love code &nbsp;&nbsp;
 
 <img src="https://streak-stats.demolab.com?user=Omanshi19&theme=radical&hide_border=true&background=0d0d0d" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omanshi19&theme=radical" />
-
 </div>
 
 
