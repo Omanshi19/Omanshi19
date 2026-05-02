@@ -37,11 +37,10 @@ i love code &nbsp;&nbsp;
 
 | 🎓 | CSE (Health Informatics) @ VIT Bhopal |
 |---|---|
-| 🧠 | training CNNs to read kidney scans (as one does) |
 | 🐛 | professional bug introducer & occasional bug fixer |
-| ☕ | runs on chai, deadlines, and sheer delusion |
+| ☕ | runs on coffee, deadlines and sheer delusion |
 | 😂 | certified Indian stand-up comedy enjoyer |
-| 🌙 | 2am coder. 3am debugger. 4am "why does this work" |
+| 🌙 | 2am coder. 3am debugger. 4am "why and how does this even work" |
 
 </div>
 
