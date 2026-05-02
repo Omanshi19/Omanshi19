@@ -10,7 +10,11 @@ i love code &nbsp;&nbsp;
 
 ![under construction](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
 
-> ⚠️ **WARNING:** This profile may cause uncontrollable urge to build things at 2am
+<div align="center">
+
+![warning](https://readme-typing-svg.herokuapp.com?font=Creepster&size=28&pause=500&color=FF0000&center=true&vCenter=true&width=700&lines=⚠️+WARNING%3A+This+profile+is+cursed.;You+have+been+warned.;Proceed+at+your+own+risk.;...+still+here%3F+brave.;don't+say+i+didn't+warn+you+😈)
+
+</div>
 
 </div>
 
