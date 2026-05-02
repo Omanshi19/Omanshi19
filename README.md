@@ -11,7 +11,7 @@ i love code &nbsp;&nbsp;
 
 ![under construction](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
 
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="100%" />
+
 
 <div align="center">
 
@@ -21,7 +21,7 @@ i love code &nbsp;&nbsp;
 
 </div>
 
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="100%" />
+
 
 ---
 
@@ -45,7 +45,7 @@ i love code &nbsp;&nbsp;
 
 </div>
 
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="100%" />
+
 ---
 
 
@@ -73,7 +73,7 @@ i love code &nbsp;&nbsp;
 
 </div>
 
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="100%" />
+
 ---
 
 ## 📊 THE NUMBERS (proof i exist)
@@ -86,7 +86,7 @@ i love code &nbsp;&nbsp;
 
 </div>
 
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="100%" />
+
 ---
 
 <div align="center">
@@ -97,7 +97,7 @@ i love code &nbsp;&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6FD8?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-website-omanshi.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omanshikaushal2022@vitbhopal.ac.in)
 
-<img src="https://media.giphy.com/media/trN9ht5RlE3Dcwavg2/giphy.gif" width="100"/>
+
 
 *this profile is always under construction. come back never. or now. idk.*
 
@@ -105,4 +105,3 @@ i love code &nbsp;&nbsp;
 
 </div>
 
-<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="100%" />
