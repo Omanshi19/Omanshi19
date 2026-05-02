@@ -2,8 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Welcome%20to%20Omanshi's%20GitHub%20%F0%9F%94%A5&fontSize=28&fontColor=FF6FD8&fontAlignY=65&animation=twinkling)
 
-![warning](https://readme-typing-svg.herokuapp.com?font=Creepster&size=22&pause=500&color=FF0000&center=true&vCenter=true&width=700&lines=⚠️+WARNING%3A+This+profile+is+cursed.;You+have+been+warned.;Proceed+at+your+own+risk.;...+still+here%3F+brave.;don't+say+i+didn't+warn+you+😈)
-
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" /> &nbsp;&nbsp;
 i love code &nbsp;&nbsp;
