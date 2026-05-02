@@ -23,23 +23,29 @@ i love code &nbsp;&nbsp;
 
 <div align="center">
 
+---
+
+<div align="center">
+
 ## 👾 who even am i
 
-**Omanshi Kaushal** · CSE (Health Informatics) @ VIT Bhopal
-`building CNNs by day` · `debugging by night` · `crying over papers always`
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="80" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" />
 
-🏆 Best Speaker @ Youth Parliament &nbsp;|&nbsp; 🤝 Muskurahat Foundation &nbsp;|&nbsp; 😂 stand-up comedy appreciator
+| 🎓 | CSE (Health Informatics) @ VIT Bhopal |
+|---|---|
+| 🧠 | training CNNs to read kidney scans (as one does) |
+| 🐛 | professional bug introducer & occasional bug fixer |
+| ☕ | runs on chai, deadlines, and sheer delusion |
+| 😂 | certified Indian stand-up comedy enjoyer |
+| 🌙 | 2am coder. 3am debugger. 4am "why does this work" |
 
 </div>
 
 ---
-
-## 🔥 current hyperfixation
-
-PathoKidNet ████████████░░ 85% [compiling... please hold]
-└── training lightweight CNNs to classify kidney CT scans
-└── 2 novel architectures (SLDRMP & RGEEK)
-└── targeting Elsevier Applied Soft Computing 🤞
 
 ---
 
