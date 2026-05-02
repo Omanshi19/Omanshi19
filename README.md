@@ -70,7 +70,7 @@ PathoKidNet ████████████░░ 85% [compiling... please 
 ---
 
 ## 📊 THE NUMBERS (proof i exist)
-
+ 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Omanshi19&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&count_private=true" height="165" />
