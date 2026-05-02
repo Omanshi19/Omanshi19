@@ -99,7 +99,7 @@ i love code &nbsp;&nbsp;
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Omanshi19.Omanshi19)
 
-<img src="https://media.giphy.com/media/mjORAqVKYtW7e/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/mjORAqVKYtW7e/giphy.gif" width="100%" height="60px" style="object-fit:cover" />
 
 </div>
 
