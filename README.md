@@ -11,6 +11,8 @@ i love code &nbsp;&nbsp;
 
 ![under construction](https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif)
 
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="100%" />
+
 <div align="center">
 
 ![warning](https://readme-typing-svg.herokuapp.com?font=Creepster&size=28&pause=500&color=FF0000&center=true&vCenter=true&width=700&lines=⚠️+WARNING%3A+This+profile+is+cursed.;You+have+been+warned.;Proceed+at+your+own+risk.;...+still+here%3F+brave.;don't+say+i+didn't+warn+you+😈)
@@ -19,11 +21,10 @@ i love code &nbsp;&nbsp;
 
 </div>
 
----
-
-<div align="center">
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="100%" />
 
 ---
+
 
 <div align="center">
 
@@ -44,9 +45,9 @@ i love code &nbsp;&nbsp;
 
 </div>
 
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="100%" />
 ---
 
----
 
 ## 🕹️ TECH STACK (loading... please wait)
 
@@ -72,6 +73,7 @@ i love code &nbsp;&nbsp;
 
 </div>
 
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="100%" />
 ---
 
 ## 📊 THE NUMBERS (proof i exist)
@@ -83,6 +85,8 @@ i love code &nbsp;&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Omanshi19&theme=radical" />
 
 </div>
+
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="100%" />
 ---
 
 <div align="center">
@@ -100,3 +104,5 @@ i love code &nbsp;&nbsp;
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Omanshi19.Omanshi19)
 
 </div>
+
+<img src="https://media.giphy.com/media/l3q2K5jinAlChoCLS/giphy.gif" width="100%" />
