@@ -15,6 +15,7 @@ i love code &nbsp;&nbsp;
 
 ![warning](https://readme-typing-svg.herokuapp.com?font=Creepster&size=28&pause=500&color=FF0000&center=true&vCenter=true&width=700&lines=⚠️+WARNING%3A+This+profile+is+cursed.;You+have+been+warned.;Proceed+at+your+own+risk.;...+still+here%3F+brave.;don't+say+i+didn't+warn+you+😈)
 
+<img src="https://media.giphy.com/media/mjORAqVKYtW7e/giphy.gif" width="100%" height="60px" style="object-fit:cover" />
 </div>
 
 </div>
@@ -41,6 +42,7 @@ i love code &nbsp;&nbsp;
 | 😂 | certified Indian stand-up comedy enjoyer |
 | 🌙 | 2am coder. 3am debugger. 4am "why and how does this even work" |
 
+<img src="https://media.giphy.com/media/mjORAqVKYtW7e/giphy.gif" width="100%" height="60px" style="object-fit:cover" />
 </div>
 
 
@@ -65,10 +67,10 @@ i love code &nbsp;&nbsp;
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge)
 ![MetaMask](https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge)
 
+<img src="https://media.giphy.com/media/mjORAqVKYtW7e/giphy.gif" width="100%" height="60px" style="object-fit:cover" />
 </div>
 
 
@@ -80,6 +82,7 @@ i love code &nbsp;&nbsp;
 
 <img src="https://streak-stats.demolab.com?user=Omanshi19&theme=radical&hide_border=true&background=0d0d0d" />
 
+<img src="https://media.giphy.com/media/mjORAqVKYtW7e/giphy.gif" width="100%" height="60px" style="object-fit:cover" />
 </div>
 
 
