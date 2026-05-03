@@ -82,6 +82,10 @@ i love code &nbsp;&nbsp;
 
 <img src="https://streak-stats.demolab.com?user=Omanshi19&theme=radical&hide_border=true&background=0d0d0d" />
 
+<img src="https://github-readme-stats.vercel.app/api?username=Omanshi19&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omanshi19&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d" height="165" />
+
 </div>
 
 ---
