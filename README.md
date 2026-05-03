@@ -82,9 +82,7 @@ i love code &nbsp;&nbsp;
 
 <img src="https://streak-stats.demolab.com?user=Omanshi19&theme=radical&hide_border=true&background=0d0d0d" />
 
-<img src="https://media.giphy.com/media/mjORAqVKYtW7e/giphy.gif" width="100%" height="60px" style="object-fit:cover" />
 </div>
-
 
 ---
 
