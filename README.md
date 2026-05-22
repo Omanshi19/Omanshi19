@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Welcome%20to%20Omanshi's%20GitHub%20%F0%9F%94%A5&fontSize=28&fontColor=FF6FD8&fontAlignY=65&animation=twinkling)
-
+ 
 
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" /> &nbsp;&nbsp;
 i love code &nbsp;&nbsp;
