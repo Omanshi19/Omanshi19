@@ -85,8 +85,7 @@ i love code &nbsp;&nbsp;
 </div>
 
 ---
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="80" />
-
+<img src="https://media.giphy.com/media/mjORAqVKYtW7e/giphy.gif" width="100%" height="60px" style="object-fit:cover" />
 <div align="center">
 
 ## 🔗 find me if you can
