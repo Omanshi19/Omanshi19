@@ -85,6 +85,20 @@ i love code &nbsp;&nbsp;
 </div>
 
 ---
+
+## 🐍 THE SNAKE THAT EATS MY COMMITS
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omanshi19/Omanshi19/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omanshi19/Omanshi19/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/Omanshi19/Omanshi19/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
 <img src="https://media.giphy.com/media/mjORAqVKYtW7e/giphy.gif" width="100%" height="60px" style="object-fit:cover" />
 <div align="center">
 
@@ -103,4 +117,3 @@ i love code &nbsp;&nbsp;
 <img src="https://media.giphy.com/media/mjORAqVKYtW7e/giphy.gif" width="100%" height="60px" style="object-fit:cover" />
 
 </div>
-
