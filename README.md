@@ -80,7 +80,7 @@ i love code &nbsp;&nbsp;
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Omanshi19&theme=radical&hide_border=true&background=0d0d0d" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Omanshi19&theme=radical&hide_border=true&background=0d0d0d" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omanshi19/Omanshi19/output/github-contribution-grid-snake-dark.svg" />
